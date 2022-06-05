@@ -1,0 +1,25 @@
+{
+  "name": "project_f",
+  "version": "1.0.0",
+  "description": "web course final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielShil/WebProject.git"
+  },
+  "author": "Ariel Shilian, Tal kahalon, Yuval Rot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArielShil/WebProject/issues"
+  },
+  "homepage": "https://github.com/ArielShil/WebProject#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0",
+    "nodemon": "^2.0.16"
+  }
+}
